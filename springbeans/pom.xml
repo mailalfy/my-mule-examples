@@ -10,6 +10,9 @@
      This project contains examples on how to use Spring beans within a Mule application.
   </description>
   <properties>
+  
+  
+  
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <mule.version>3.4.0</mule.version>
